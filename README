@@ -1,0 +1,4 @@
+# rsswatcher is a daemon process, work with wget, to acess some PT rss url, auto download seed file for u transmission
+# so you need set "-c" parameter with transmission deamon
+
+# transmission_patch is some modify code, make you transmission web client and server's daemon work together with rsswatcher
